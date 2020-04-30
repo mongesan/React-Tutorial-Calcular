@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/React-Tutorial-Calcular/static/js/main.d48db6a9.chunk.js",
+    "main.js.map": "/React-Tutorial-Calcular/static/js/main.d48db6a9.chunk.js.map",
+    "runtime-main.js": "/React-Tutorial-Calcular/static/js/runtime-main.b2602ee5.js",
+    "runtime-main.js.map": "/React-Tutorial-Calcular/static/js/runtime-main.b2602ee5.js.map",
+    "static/js/2.895474df.chunk.js": "/React-Tutorial-Calcular/static/js/2.895474df.chunk.js",
+    "static/js/2.895474df.chunk.js.map": "/React-Tutorial-Calcular/static/js/2.895474df.chunk.js.map",
+    "index.html": "/React-Tutorial-Calcular/index.html",
+    "precache-manifest.a40c6a6df65ab7fb78fa86e44b4aef37.js": "/React-Tutorial-Calcular/precache-manifest.a40c6a6df65ab7fb78fa86e44b4aef37.js",
+    "service-worker.js": "/React-Tutorial-Calcular/service-worker.js",
+    "static/js/2.895474df.chunk.js.LICENSE.txt": "/React-Tutorial-Calcular/static/js/2.895474df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2602ee5.js",
+    "static/js/2.895474df.chunk.js",
+    "static/js/main.d48db6a9.chunk.js"
+  ]
+}
